@@ -21,6 +21,11 @@ This is a simple AR application built using Unity and the AR Foundation framewor
 - **C#** for scripting
 - **Android Build Support** for Unity to compile APK files
 
+## Testing the project
+
+### Download the .apk file
+- you can find the .apk file of the project in the releases simply download it and run the app
+
 ## How to Build the Project for Android
 
 ### Prerequisites
