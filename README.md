@@ -66,12 +66,12 @@ This is a simple AR application built using Unity and the AR Foundation framewor
    ```bash
    adb install path_to_your_apk.apk
 
-##Additional Notes
+## Additional Notes
 
 - The app uses the device's camera to display AR content, so make sure your Android device is ARCore compatible.
 - Make sure to give the app camera permissions to run AR functionalities.
 
-##Challenges & Improvements
+## Challenges & Improvements
 
--**Challenges:** Handling AR object interactions with multitouch input and ensuring smooth performance across different devices were key challenges during development.
--**Future Improvements:** If more time is available, I would like to implement features such as saving the AR scene, adding multiple objects, and improving gesture handling for more complex interactions.
+- **Challenges:** Handling AR object interactions with multitouch input and ensuring smooth performance across different devices were key challenges during development.
+- **Future Improvements:** If more time is available, I would like to implement features such as saving the AR scene, adding multiple objects, and improving gesture handling for more complex interactions.
